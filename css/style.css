@@ -79,3 +79,18 @@ nav > .nav_bottom > ul > li:not(:first-child) {
     margin-left: 25px;
 }
 
+main {
+    padding: 25px 15px;
+    margin: 0 250px;
+}
+
+main > h2 {
+    color: #5f6368;
+    margin-bottom: 15px;
+}
+
+main > p {
+    margin-bottom: 15px;
+    font-size: 0.9rem;
+}
+
